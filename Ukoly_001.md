@@ -23,7 +23,7 @@ Vypis na vystup:
 * Vytvor promennou jmenem `hesla` uloz do ni pole peti "nahodnych" retezcu (slov)
 * Do promenne `x` nacti vstup od uzivatele
 * Do promenne `y` nacti vstup od uzivatele
-* Pokud je `x` rovno prvnimu prvku pole `cisla` a soucasne `y` se nerovna poslednimu prvku, vypis "OK", jinak vypis "NOPE!"
+* Pokud je `x` rovno prvnimu prvku pole `hesla` a soucasne `y` se nerovna poslednimu prvku, vypis "OK", jinak vypis "NOPE!"
 
 
 ## Program 3
